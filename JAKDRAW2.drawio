@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="AjXpHz0BsZuSf6Doqox9">
-    <mxGraphModel dx="1340" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="420" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="320" x="240" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AC输入&lt;div&gt;85~250V&lt;/div&gt;&lt;div&gt;50~60Hz&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="240" y="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
