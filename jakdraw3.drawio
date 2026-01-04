@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="RcjOG9ufCJ-DXbE2SWGY">
-    <mxGraphModel dx="1810" dy="882" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="882" grid="0" gridSize="20" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,6 +201,12 @@
         </mxCell>
         <mxCell id="ZN6rFckSjK16VS5-andy-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="设定目标转速&lt;div&gt;设定目标扭矩&lt;/div&gt;&lt;div&gt;设定循环曲线&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="990" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ZN6rFckSjK16VS5-andy-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="最大可能：输出线电压600Vpp" vertex="1">
+          <mxGeometry height="30" width="240" x="360" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="ZN6rFckSjK16VS5-andy-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="最大可能：输出线电压600Vpp" vertex="1">
+          <mxGeometry height="30" width="240" x="840" y="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
