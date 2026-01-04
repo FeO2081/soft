@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="AjXpHz0BsZuSf6Doqox9">
-    <mxGraphModel dx="724" dy="353" grid="1" gridSize="20" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1508" dy="735" grid="1" gridSize="20" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="20" width="50" x="240" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="470" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="630" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="790" y="550" as="geometry" />
+        </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=right;verticalAlign=top;fontSize=14;" value="单电机控制器" vertex="1">
           <mxGeometry height="160" width="320" x="240" y="160" as="geometry" />
         </mxCell>
@@ -176,18 +188,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=1" value="电机本体&lt;div&gt;内含变压器&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="160" x="240" y="480" as="geometry" />
+          <mxGeometry height="160" width="120" x="280" y="480" as="geometry" />
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-38" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;startArrow=oval;startFill=1;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="299.65999999999997" y="480" as="sourcePoint" />
-            <mxPoint x="299.65999999999997" y="440" as="targetPoint" />
+            <mxPoint x="319.99999999999994" y="480" as="sourcePoint" />
+            <mxPoint x="319.99999999999994" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-40" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;startArrow=oval;startFill=1;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="319.76" y="480" as="sourcePoint" />
-            <mxPoint x="319.76" y="440" as="targetPoint" />
+            <mxPoint x="340" y="480" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-41" connectable="0" parent="1a4rCtEBujFHCNFeVu3j-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" value="万米长度" vertex="1">
@@ -197,18 +209,15 @@
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-42" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;startArrow=oval;startFill=1;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="339.65999999999997" y="480" as="sourcePoint" />
-            <mxPoint x="339.65999999999997" y="440" as="targetPoint" />
+            <mxPoint x="359.99999999999994" y="480" as="sourcePoint" />
+            <mxPoint x="359.99999999999994" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-44" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.transformer_2;" value="" vertex="1">
           <mxGeometry height="60" width="64" x="288" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="1a4rCtEBujFHCNFeVu3j-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
-          <mxGeometry height="20" width="80" x="160" y="550" as="geometry" />
-        </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=1" value="电机本体&lt;div&gt;内含变压器&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="160" x="480" y="480" as="geometry" />
+          <mxGeometry height="160" width="120" x="500" y="480" as="geometry" />
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-49" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;startArrow=oval;startFill=1;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -230,11 +239,8 @@
         <mxCell id="1a4rCtEBujFHCNFeVu3j-52" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.transformer_2;" value="" vertex="1">
           <mxGeometry height="60" width="64" x="528" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="1a4rCtEBujFHCNFeVu3j-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
-          <mxGeometry height="20" width="40" x="440" y="550" as="geometry" />
-        </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=1" value="电机本体&lt;div&gt;内含变压器&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="160" x="640" y="480" as="geometry" />
+          <mxGeometry height="160" width="120" x="660" y="480" as="geometry" />
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-64" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;startArrow=oval;startFill=1;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -252,7 +258,7 @@
           <mxGeometry height="60" width="64" x="688" y="500" as="geometry" />
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=1" value="电机本体&lt;div&gt;内含变压器&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="160" x="800" y="480" as="geometry" />
+          <mxGeometry height="160" width="120" x="820" y="480" as="geometry" />
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-70" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;startArrow=oval;startFill=1;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -275,31 +281,16 @@
             <mxPoint x="600" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1a4rCtEBujFHCNFeVu3j-76" connectable="0" parent="1a4rCtEBujFHCNFeVu3j-75" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" value="A" vertex="1">
-          <mxGeometry relative="1" x="0.0897" as="geometry">
-            <mxPoint y="42" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-77" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;startArrow=oval;startFill=1;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="760" y="480" as="sourcePoint" />
             <mxPoint x="760" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1a4rCtEBujFHCNFeVu3j-78" connectable="0" parent="1a4rCtEBujFHCNFeVu3j-77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" value="A" vertex="1">
-          <mxGeometry relative="1" x="0.0897" as="geometry">
-            <mxPoint y="42" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-79" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;startArrow=oval;startFill=1;endFill=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="920" y="480" as="sourcePoint" />
             <mxPoint x="920" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1a4rCtEBujFHCNFeVu3j-80" connectable="0" parent="1a4rCtEBujFHCNFeVu3j-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" value="A" vertex="1">
-          <mxGeometry relative="1" x="0.0897" as="geometry">
-            <mxPoint y="42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1a4rCtEBujFHCNFeVu3j-81" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" value="G" vertex="1">
