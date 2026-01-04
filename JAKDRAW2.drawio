@@ -4,11 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1a4rCtEBujFHCNFeVu3j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="160" width="320" x="240" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="1a4rCtEBujFHCNFeVu3j-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AC输入&lt;div&gt;85~250V&lt;/div&gt;&lt;div&gt;50~60Hz&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="240" y="200" as="geometry" />
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="AC输入&lt;div&gt;85~250V&lt;/div&gt;&lt;div&gt;50~60Hz&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="240" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;curved=0;strokeWidth=2;startArrow=oval;startFill=1;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="160" as="sourcePoint" />
+            <mxPoint x="400" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=1;endFill=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="100" as="sourcePoint" />
+            <mxPoint x="420" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=1;endFill=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="100" as="sourcePoint" />
+            <mxPoint x="380" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1a4rCtEBujFHCNFeVu3j-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="2.4G天线" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
